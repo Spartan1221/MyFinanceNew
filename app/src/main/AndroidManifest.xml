@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="spartanmobileapps.com.myfinance">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="locked">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".ProfitAdd"
+            android:theme="@style/Theme.AppCompat.Dialog.Alert"
+            android:label=" ">
+
+            <intent-filter>
+                <action android:name="spartanmobileappps.intent.action.profit" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".SpendAdd"
+            android:theme="@style/Theme.AppCompat.Dialog.Alert"
+            android:label=" ">
+            <intent-filter>
+                <action android:name="spartanmobileappps.intent.action.spend" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".PaymentAdd"
+            android:theme="@style/Theme.AppCompat.Dialog.Alert"
+            android:label=" ">
+        <intent-filter>
+            <action android:name="spartanmobileappps.intent.action.payment" />
+            <category android:name="android.intent.category.DEFAULT" />
+        </intent-filter>
+        </activity>
+
+        <activity android:name="com.amirarcane.lockscreen.activity.EnterPinActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3017783383508898~8739579819"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="38dp">
+
+
+        <TextView
+            android:id="@+id/tvDataTop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|left"
+            android:layout_marginLeft="5dp"
+            android:text="Дата" />
+
+        <TextView
+            android:id="@+id/tvTypeTop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|left"
+            android:layout_marginLeft="80dp"
+            android:text="Бюджет" />
+
+        <TextView
+            android:id="@+id/tvSumTop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|right"
+            android:layout_marginRight="80dp"
+            android:text="Траты" />
+
+        <TextView
+            android:id="@+id/tvDaySumTop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|right"
+            android:layout_marginRight="5dp"
+            android:text="Остаток" />
+
+
+
+
+
+    </FrameLayout>
+
+</android.support.constraint.ConstraintLayout>

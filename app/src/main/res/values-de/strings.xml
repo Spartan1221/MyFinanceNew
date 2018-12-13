@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">My Finance</string>
+    <string name="title_home">das Haus</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="tvMonth">Budget für den Monat</string>
+    <string name="tvDay">Tagesbudget</string>
+    <string name="tvMonthBalance">Einsparungen pro Monat/string></string>
+    <string name="tvDayProfit">Einkommen pro Tag</string>
+    <string name="tvDaySpend">Ausgaben pro Tag</string>
+    <string name="tvMonthRes"> </string>
+    <string name="tvDayRes"> </string>
+    <string name="tvMonthBalanceRes"> </string>
+    <string name="tvDayProfitRes"> </string>
+    <string name="tvDaySpendRes"> </string>
+    <string name="tvMessageBal">Balance</string>
+    <string name="tvMessageBuy">Ausgaben</string>
+    <string name="tvMessageProf">Einkommen</string>
+    <string name="tvMessagePay">Ausgaben</string>
+    <string name="action_settings">Settings</string>
+    <string name="currency"> EUR</string>
+
+    <string name="tvSum">Betrag</string>
+    <string name="tvType">Geben Sie ein</string>
+    <string name="tvDate">Datum</string>
+    <string name="tvTypeTop">Budget</string>
+    <string name="tvSumTop">Ausgaben</string>
+    <string name="tvDaySumTop">Der Rest</string>
+
+    <string name="textToast">Dieser Tag wird bearbeitet</string>
+
+    <string name="dialogYes">Ja</string>
+    <string name="dialogNo">Abbrechen</string>
+    <string name="messageDialog">Löschen Sie den letzten Eintrag?</string>
+
+    <string name="textAdd">Hinzufügen</string>
+
+    //passwordDialog
+    <string name="passwordDialog">Ein Passwort hinzufügen?</string>
+    <string name="dialogDelete">Löschen</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3017783383508898/5980311268</string>
+</resources>

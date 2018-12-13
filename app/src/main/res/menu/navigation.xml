@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_balance"
+        android:icon="@drawable/if_account_balance"
+        android:title="@string/tvMessageBal" />
+
+    <item
+        android:id="@+id/navigation_profit"
+        android:icon="@drawable/if_coin"
+        android:title="@string/tvMessageProf" />
+
+    <item
+        android:id="@+id/navigation_spend"
+        android:icon="@drawable/if_spend_money"
+        android:title="@string/tvMessageBuy" />
+
+    <item
+        android:id="@+id/navigation_payment"
+        android:icon="@drawable/if_safety_card"
+        android:title="@string/tvMessagePay" />
+
+
+
+
+</menu>

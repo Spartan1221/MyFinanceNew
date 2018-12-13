@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Мои финансы</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="tvMonth">Бюджет на месяц</string>
+    <string name="tvDay">Бюджет на день</string>
+    <string name="tvMonthBalance">Накопления в месяц</string>
+    <string name="tvDayProfit">Доход в день</string>
+    <string name="tvDaySpend">Расходы в день</string>
+    <string name="tvMonthRes"> </string>
+    <string name="tvDayRes"> </string>
+    <string name="tvMonthBalanceRes"> </string>
+    <string name="tvDayProfitRes"> </string>
+    <string name="tvDaySpendRes"> </string>
+    <string name="tvMessageBal">Баланс</string>
+    <string name="tvMessageBuy">Расходы</string>
+    <string name="tvMessageProf">Доходы</string>
+    <string name="tvMessagePay">Траты</string>
+    <string name="action_settings">Settings</string>
+    <string name="currency"> РУБ</string>
+
+    <string name="tvSum">Сумма</string>
+    <string name="tvType">Тип</string>
+    <string name="tvDate">Дата</string>
+    <string name="tvTypeTop">Бюджет</string>
+    <string name="tvSumTop">Траты</string>
+    <string name="tvDaySumTop">Остаток</string>
+
+    <string name="textToast">Этот день обработан</string>
+
+    //alertDialog
+    <string name="dialogYes">Да</string>
+    <string name="dialogNo">Отмена</string>
+    <string name="messageDialog">Удалить последнюю запись?</string>
+
+    <string name="textAdd">Добавить</string>
+
+    //passwordDialog
+    <string name="passwordDialog">Добавить пароль?</string>
+    <string name="dialogDelete">Удалить</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3017783383508898/5980311268</string>
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "153015838442",
+    "firebase_url": "https://myfinance-4d0af.firebaseio.com",
+    "project_id": "myfinance-4d0af",
+    "storage_bucket": "myfinance-4d0af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153015838442:android:6b4cafa3ee5157cd",
+        "android_client_info": {
+          "package_name": "spartanmobileapps.com.myfinance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153015838442-6c0i1tt34tvmt4hcutmnfr0qj29b6gtd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "spartanmobileapps.com.myfinance",
+            "certificate_hash": "b7646272a0846d951a63eef215ca25a38e43ade4"
+          }
+        },
+        {
+          "client_id": "153015838442-gahqac1ma8g6osctsikqt36d37o2alq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfUM9ubR-MU2Zc_K91QN-s-o2eYiFctbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153015838442-gahqac1ma8g6osctsikqt36d37o2alq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
